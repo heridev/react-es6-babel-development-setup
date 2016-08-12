@@ -26,3 +26,8 @@ npm run build
 ```
 
 will runs webpack in production mode and will minimize the bundle.js file
+
+### installing new dependencies
+```
+npm i bootstrap bootstrap-loader -S
+```
