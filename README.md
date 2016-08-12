@@ -1,5 +1,10 @@
 ### Setting up a productive environment for developing react apps
 
+#### run the server, build, tests, eslint:
+```
+npm start -s
+```
+
 Watching any changes to the files
 ```
 ./node_modules/.bin/webpack -d --watch
