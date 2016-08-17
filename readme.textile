@@ -1,0 +1,16 @@
+h2. Getting Started:  
+
+* First make sure you have installed the ruby version 2.2.2 if not install it before installing all dependencies:
+## For rbenv ` $ rbenv install 2.2.2 `
+## For rvm `sh $ rvm  install 2.2.2`
+
+bc.. 
+	# Installing ruby gems
+	sh
+	gem install bundler
+	...
+	bundle install
+	...
+
+p.  
+	
